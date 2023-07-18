@@ -1,0 +1,8 @@
+D:\ThirdDistinctMAX\ThirdDistinct\obj\Debug\ThirdDistinct.csproj.AssemblyReference.cache
+D:\ThirdDistinctMAX\ThirdDistinct\obj\Debug\ThirdDistinct.csproj.SuggestedBindingRedirects.cache
+D:\ThirdDistinctMAX\ThirdDistinct\obj\Debug\ThirdDistinct.csproj.CoreCompileInputs.cache
+D:\ThirdDistinctMAX\ThirdDistinct\bin\Debug\ThirdDistinct.exe.config
+D:\ThirdDistinctMAX\ThirdDistinct\bin\Debug\ThirdDistinct.exe
+D:\ThirdDistinctMAX\ThirdDistinct\bin\Debug\ThirdDistinct.pdb
+D:\ThirdDistinctMAX\ThirdDistinct\obj\Debug\ThirdDistinct.exe
+D:\ThirdDistinctMAX\ThirdDistinct\obj\Debug\ThirdDistinct.pdb
